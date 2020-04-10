@@ -1,2 +1,0 @@
-# CoronaTheGame
-Created with CodeSandbox

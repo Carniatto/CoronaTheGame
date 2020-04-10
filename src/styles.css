@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+
+.board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  height: 80vh;
+  width: 60vw;
+}
+
+.actions button {
+  margin: 10px;
+}
